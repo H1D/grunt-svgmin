@@ -25,7 +25,7 @@
     "each-async": "^1.0.0",
     "log-symbols": "^1.0.0",
     "pretty-bytes": "^1.0.1",
-    "svgo": "^0.5.0"
+    "svgo": "git+ssh://git@github.com:svg/svgo.git#259ae7e7d9dfd59161669495ec1ac43f6e677544"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
